@@ -9,7 +9,7 @@ import ContactForm from './ContactForm';
 import styled from 'styled-components';
 import {BrowserRouter, Route, Link, NavLink} from 'react-router-dom';
 
-// test update
+
 class LandingPage extends React.Component {
 
   render() {
